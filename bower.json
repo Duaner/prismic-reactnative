@@ -1,0 +1,14 @@
+{
+  "name": "prismic-reactjs",
+  "description": "render prismic json fragments as React Native Component",
+  "main": "dist/prismic-reactnative.min.js",
+  "license": "ISC",
+  "homepage": "https://github.com/prismicio/prismic-reactjs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
